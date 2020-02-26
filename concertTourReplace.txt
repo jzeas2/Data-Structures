@@ -1,0 +1,3 @@
+6 hotel Daytona-Beach-Villa REPLACED HOTEL: new hotel due to seagull incident 
+8 end Daytona-Airport REPLACED AIRPORT: Let's go to Colorado!
+5 concert-venue Palm-Beach-Rock REPLACED OPERA: these birds are a rock band!

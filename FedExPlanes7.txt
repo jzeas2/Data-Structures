@@ -1,0 +1,8 @@
+11
+1 medical 654 Boeing767 120000 London
+3 packages 234 MD11 180000 Barcelona
+4 animals 222 MD11 30000 Miami
+6 animals 112 Boeing757 60000 Jackson
+7 packages 517 Boeing777 230000 Seattle
+9 medical 303 Boeing767 100000 Frankfurt
+10 packages 569 Boeing757 90000 Austin

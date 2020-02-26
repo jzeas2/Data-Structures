@@ -1,0 +1,5 @@
+7
+1 765 Boeing767 120000 London
+3 1234 MD11 180000 Barcelona
+4 517 Boeing777 230000 Frankfurt
+6 112 Boeing757 60000 Jackson

@@ -1,0 +1,8 @@
+7
+t 9.52 2.88 25.84 Dave Scott
+d 8.32 0 23.47 Kenny Souza
+a 9.01 2.04 0 Hannah Kitchen
+m 6.67 0 0 Will Ferrell
+t 9.57 3.00 26.35 Mark Allen
+a 8.90 2.54 0 Thomas Roos
+m 7.01 0 0 George Bush

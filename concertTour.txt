@@ -1,0 +1,8 @@
+7 concert-venue Sky-Amphitheater Standing ovation during "Free Bird!"
+3 concert-venue Miami-Band-Shell First stop on tour! 
+4 hotel Palm-Beach-Hotel Perch by the pool drinking tequila sunrises
+8 end Daytona-Airport Catch a flight to Orlando.
+6 hotel Daytona-Beach-Resort Perch on beach and disrespect the seagulls
+1 start Miami-Airport Arrive for concert tour.
+2 hotel Hotel-Deauville Warm up singing Beatles songs
+5 concert-venue Palm-Opera-House Sing the Va' Pensiero from Nabucco
